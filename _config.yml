@@ -1,4 +1,4 @@
-name: Tim Reichelt - Photography
+name: Tim Reichelt
 favicon: null
 layout_spectrum: 0.34959265124052763
 typography_spectrum: 0.9302652748301625
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#eb5eeb'
+    - '#8ee500'
+    - '#f9ccc6'
+    - '#c2a794'
+    - '#9d3fdf'
   brandStrength: 0.541085667675361
   lightness: 0.8681168935727328
   saturation: 0.04643917689099908
