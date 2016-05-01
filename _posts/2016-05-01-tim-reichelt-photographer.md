@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I am a photographer and biologist. Born in Southport to parents who loved their garden, I grew up surrounded by beautiful plants and was fascinated by the exquisite colours and detail that can be observed in the natural world, especially when you get in close.'
-datePublished: '2016-05-01T05:16:07.579Z'
-dateModified: '2016-05-01T05:13:42.083Z'
+datePublished: '2016-05-01T05:18:49.789Z'
+dateModified: '2016-05-01T05:16:17.478Z'
 title: Tim Reichelt - Photographer
 author: []
 sourcePath: _posts/2016-05-01-tim-reichelt-photographer.md
