@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tim Reichelt - Photography]]></title>
+        <description><![CDATA[Tim Reichelt - Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 04:37:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I am a photographer and biologist. Born in Southport to parents who loved their garden, I grew up surrounded by beautiful plants and was fascinated by the exquisite colours and detail that can be observed in the natural world, especially when you get in close.</p>]]></description>
+            <link>undefinedi-am-a-photographer-and-biologist-born-in-southport-to-pare/index.html</link>
+            <guid isPermaLink="false">dd31b6f5-267a-4689-9142-fd720a2d2265</guid>
+            <pubDate>Sun, 01 May 2016 04:37:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
