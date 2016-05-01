@@ -4,17 +4,17 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'A pillar of red and orange. A staff of blooms. A fiery inflorescence. A strand of spider’s web near the crown, to trap the unwary. '
-datePublished: '2016-05-01T05:09:38.505Z'
-dateModified: '2016-05-01T05:09:20.407Z'
+description: 'A pillar of red and orange. A staff of blooms. A fiery inflorescence. A strand of spider’s web near the crown, to trap the unwary.'
+datePublished: '2016-05-01T05:20:08.169Z'
+dateModified: '2016-05-01T05:20:07.351Z'
+title: Tower Of Power
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Tower Of Power
-author: []
 starred: false
 sourcePath: _posts/2016-05-01-tower-of-power.md
 published: true
