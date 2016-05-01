@@ -1,0 +1,28 @@
+name: Tim Reichelt - Photography
+favicon: null
+layout_spectrum: 0.34959265124052763
+typography_spectrum: 0.9302652748301625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.541085667675361
+  lightness: 0.8681168935727328
+  saturation: 0.04643917689099908
+  rhythmicContrast: 0.4167193111497909
+purpose: []
