@@ -5,23 +5,25 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I am a photographer and biologist. Born in Southport to parents who loved their garden, I grew up surrounded by beautiful plants and was fascinated by the exquisite colours and detail that can be observed in the natural world, especially when you get in close.'
-datePublished: '2016-05-01T04:37:19.047Z'
-dateModified: '2016-05-01T04:36:59.990Z'
+datePublished: '2016-05-01T04:38:37.729Z'
+dateModified: '2016-05-01T04:38:29.417Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-01-i-am-a-photographer-and-biologist-born-in-southport-to-pare.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-01-i-am-a-photographer-and-biologist-born-in-southport-to-pare.md
-published: true
 url: i-am-a-photographer-and-biologist-born-in-southport-to-pare/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c79a478e-5ccd-47a7-8582-e06165eb031c.jpg)
+
 I am a photographer and biologist. Born in Southport to parents who loved their garden, I grew up surrounded by beautiful plants and was fascinated by the exquisite colours and detail that can be observed in the natural world, especially when you get in close.
 
 When I was a child, I developed severe short-sightedness. Without corrective lenses, everything more than twenty centimetres away was a blur. I seldom found this to be limiting. Glasses sometimes fog up or are knocked off but that's about it.
